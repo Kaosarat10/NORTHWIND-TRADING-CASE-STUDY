@@ -1,5 +1,10 @@
 # Northwind Trading eCommerce Experience Analysis
-### Business Analysis Case Study  
+### Business Analysis Case Study
+
+
+**Business Analyst / Strategist:** Kaosarat Ibrahim  
+**Email:** kaosyolamide69@gmail.com  
+
 
 ## Project Description
 
@@ -34,8 +39,6 @@ The company is concerned that these changes may negatively affect **customer exp
 The objective of this project is to **analyze Northwind Trading’s online sales performance and customer experience following the website redesign, identify the root causes of the decline in sales and negative customer feedback, and develop actionable recommendations to enhance customer satisfaction and business performance.**
 
 ---
-
-## Scope of Analysis
 
 ## Scope of Analysis
 
