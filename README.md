@@ -1,2 +1,2 @@
 # NORTHWIND-TRADING-CASE-STUDY
-This project is a business analysis case study focused on Northwind Trading, an eCommerce company. It investigates declining sales and negative customer feedback after a website redesign, identifies root causes, and provides actionable recommendations to improve customer experience and revenue.
+This project is a business analysis case study of Northwind Trading, an eCommerce company. It investigates why sales declined and customers gave negative feedback after a website redesign, identifies the root causes, and recommends actions to improve revenue and customer experience.
