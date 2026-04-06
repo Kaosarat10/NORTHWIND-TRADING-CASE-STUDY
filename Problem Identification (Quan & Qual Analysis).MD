@@ -18,7 +18,6 @@ The decline in revenue is primarily driven by fewer completed transactions. Cust
 ### Conclusion
 The website redesign and mandatory registration requirement negatively impacted customer experience. This led to a reduction in daily transactions and ultimately lower revenue. The main issue is the drop in transaction volume rather than a significant change in customer spending behavior.
 
----
 
 **View full document here:**  
-[Northwind Trading Analysis – Problem Identification](YOUR_LINK_HERE)
+[Northwind Trading Analysis – Problem Identification](https://github.com/Kaosarat10/NORTHWIND-TRADING-CASE-STUDY/blob/main/Qualitative%20and%20Quantitative%20Analysis%20%20.pdf)
