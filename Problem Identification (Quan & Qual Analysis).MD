@@ -1,5 +1,5 @@
-## Northwind Trading Analysis  
-### Problem Identification: Qualitative and Quantitative Analysis  
+# Northwind Trading Analysis  
+## Problem Identification: Qualitative and Quantitative Analysis  
 
 This section presents the qualitative and quantitative analysis conducted to understand the decline in Northwind Trading’s online sales performance. The analysis compares February and March metrics, reviews customer complaints, and evaluates the store manager’s report to identify patterns and key issues affecting sales.
 
